@@ -9,11 +9,11 @@
 
 - 🌱 No momento, estou aprendendo Python e Machine Learning.
 
-- 💬 Me pergunte sobre **SQL, NoSQL, Power BI, Excel, R e Python**
+- 💬 Me pergunte sobre: **SQL, NoSQL, Power BI, Excel, R e Python**
 
 - 📫 Você me acha **natan.bemvindo@gmail.com ou natanhein78@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [https://br.linkedin.com/in/nat%C3%A3-henrique-549036230](https://br.linkedin.com/in/nat%C3%A3-henrique-549036230)
+- 📄 Saiba mais sobre minhas experiências em: [https://br.linkedin.com/in/nat%C3%A3-henrique-549036230](https://br.linkedin.com/in/nat%C3%A3-henrique-549036230)
 
 - ⚡ Curiosidades: **Adoro aprender sobre diversos assuntos, mesmo que não sejam da minha área principal.**
 
